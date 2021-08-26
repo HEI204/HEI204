@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @HEI204
-- 👀 I’m interested in programming, cloud computing, AI 
-- 🌱 I’m currently learning programming and fundamental of computer science through CS50x
+## 👋 Hi, I’m Hei
+- :school: My name is Hei and I'm a student currently major in Information Engineering. 
+- :computer: I'm interested in coding, cloud computing and reading.
+- :monocle_face: I’m currently learning programming and fundamental of computer science through CS50x
 
 
 <!---
