@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Hei
 - :school: My name is Hei and I'm a student currently major in Information Engineering. 
 - :computer: I'm interested in coding, cloud computing and reading.
-- :monocle_face: I’m currently learning programming and fundamental of computer science through CS50x
-
 
 <!---
 HEI204/HEI204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
