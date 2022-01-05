@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Hei
-- :school: My name is Hei and I'm a student currently major in Information Engineering. 
+- :school: My name is Hei and I'm a student currently major in Computer Science. 
 - :computer: I'm interested in coding, cloud computing and reading.
 
 <!---
