@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 🙋‍♂ I'm Ray.
 
 - 💻 I’m interested in web development.
-- 🌱 I’m currently learning **React**, **Vue.js** and **Django**.
+- 🌱 I’m currently learning **CSS**, **SCSS**, **React**, **Vue.js** and **Django**.
 
 
 ## 📊 GitHub Stats
