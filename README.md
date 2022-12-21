@@ -5,10 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Ray</h1>
-<p align="center">
-- 💻 I’m interested in web development.
+
+- 💻 I’m interested in web development. <br>
 - 🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
-</p>
 
 <div align="center">
 <h3> 📊 GitHub Stats </h3>
