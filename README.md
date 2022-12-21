@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-<h1> 📊 GitHub Stats </h1>
+<h3> 📊 GitHub Stats </h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HEI204&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
