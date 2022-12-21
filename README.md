@@ -3,8 +3,8 @@
 HEI204/HEI204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 👤Profile
-- 🙋‍♂ I'm Ray.
+
+<center> Hi! Welcome to my profile </center>
 
 - 💻 I’m interested in web development.
 - 🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
