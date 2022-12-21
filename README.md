@@ -8,11 +8,14 @@ You can click the Preview link to take a look at your changes.
 <p align="center">I’m interested in web development and currently leraning SCSS, React, Vue.js and Django</p>
 
 ***
-
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HEI204&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ***
 
