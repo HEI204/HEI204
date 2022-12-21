@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">’m interested in web development and currently leraning SCSS, React, Vue.js and Django</h3>
+<h3 align="center">I’m interested in web development and currently leraning SCSS, React, Vue.js and Django</h3>
 
 
 
