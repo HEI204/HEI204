@@ -8,12 +8,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <ul>
     <li>💻 I’m interested in web development. <br>
-     <li> 🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
+    <li>🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
   <ul>
 <div>
 
-- 💻 I’m interested in web development. <br>
-- 🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
 
 <div align="center">
 <h3> 📊 GitHub Stats </h3>
