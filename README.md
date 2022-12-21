@@ -4,7 +4,7 @@ HEI204/HEI204 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center"> Hi! Welcome to my profile </h2>
+<p align="center"> **Hi! Welcome to my profile** </p>
 
 - 💻 I’m interested in web development.
 - 🌱 I’m currently learning **SCSS**, **React**, **Vue.js** and **Django**.
