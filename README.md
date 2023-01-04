@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I'm Ray</h1>
+<a align="center" href="https://hei204.github.io/profolio/"> Profolio page</a>
 <p align="center">I’m interested in web development and currently leraning SCSS, React, Vue.js and Django</p>
 
 ***
